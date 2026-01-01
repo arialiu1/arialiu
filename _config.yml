@@ -24,7 +24,7 @@ repository               : "arialiu1/arialiu"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "{{ site.baseurl }}/images/photo.png"
+  avatar           : "/images/photo.png"
   name             : "Aria Liu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Finance at UCLA Anderson."
